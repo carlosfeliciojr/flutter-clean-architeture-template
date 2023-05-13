@@ -1,0 +1,1 @@
+# flutter-clean-architeture-template
