@@ -1,1 +1,3 @@
-# flutter-clean-architeture-template
+# flutter_clean_architeture_template
+
+A new Flutter project.
